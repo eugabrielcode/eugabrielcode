@@ -1,6 +1,6 @@
 <div>
   <p align="center">Hello 👋!</p>
-  <p align="center">My name is Gabriel, I'm a programming student and I'm looking to evolve in what I do. 👾</p>
+  <p align="center">My name is Gabriel and I am a Computer Science student at Veiga de Almeida University. I am passionate about technology and I am always looking to improve my knowledge and skills. 👾</p>
 
 <details align="center">
   <summary>💬 Contact</summary>
