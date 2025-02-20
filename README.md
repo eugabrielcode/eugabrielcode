@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Poças de Almeida
 
-My name is Gabriel and I am a Computer Science student at Veiga de Almeida University. I am passionate about technology and I am always looking to improve my knowledge and skills.
+Me chamo Gabriel e atualmente sou estudante de Ciência da Computação na Universidade Veiga de Almeida. Sou apaixonado por tecnologia e estou sempre buscando evoluir meus conhecimentos e habilidades.
 
 ---
 
@@ -73,18 +73,4 @@ My name is Gabriel and I am a Computer Science student at Veiga de Almeida Unive
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eugabrielcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
