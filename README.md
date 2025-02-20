@@ -87,11 +87,4 @@ My name is Gabriel and I am a Computer Science student at Veiga de Almeida Unive
     src="https://github-readme-stats.vercel.app/api?username=eugabrielcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabrielcode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
