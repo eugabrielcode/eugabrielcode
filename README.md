@@ -14,7 +14,7 @@
 
 [![Portfólio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://eugabrielcode.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-poças-de-almeida-23aa1a306/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ogbcrf/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=000color:FFF)](https://www.instagram.com/ogbcrf/)
 
 
 <h3 align="left">My Stack ~</h3>
