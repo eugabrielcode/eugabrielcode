@@ -8,8 +8,6 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
 <h3 align="left">Connect with me!</h3>
 
 [![Portfólio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://eugabrielcode.github.io/portfolio/)
