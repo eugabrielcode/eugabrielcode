@@ -43,9 +43,9 @@
 <div style="text-align: center;" align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eugabrielcode&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=36BCF7&text_color=36BCF7&border_radius=3&border_color=000&icon_color=FFF&theme=jolly" alt="GitHub stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eugabrielcode&hide_title=true&show_icons=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=36BCF7&text_color=36BCF7&icon_color=FFFFFF&border_radius=3&border_color=000000" alt="GitHub stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabrielcode&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=36BCF7&bg_color=000&text_color=36BCF7&border_radius=3&border_color=000&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabrielcode&line_height=10&card_width=290&layout=compact&hide_title=false&langs_count=4&show_icons=true&title_color=36BCF7&bg_color=000000&text_color=36BCF7&border_radius=3&border_color=000000" />
 </div>
 
 #
